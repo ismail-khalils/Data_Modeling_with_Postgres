@@ -1,6 +1,6 @@
 # Summary
 
-In this project, I am going to be using Python and SQL to build an ETL pipeline for a music streaming app. This pipeline will transfer data from JSON logs and song data into a Postgres database with a star schema. This will allow the analytics team at Sparkify to easily query their data and understand what songs users are listening to.
+In this project, I am going to be using Python and SQL to build an ETL pipeline for a music streaming app. This pipeline will transfer data from JSON logs and song data into a Postgres database with a star schema. This will allow the fictional analytics team at Sparkify to easily query their data and understand what songs users are listening to.
 
 # To run my script you will need to do the following:
 
